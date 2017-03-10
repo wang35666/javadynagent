@@ -1,0 +1,4 @@
+manifest-Version: 1.0
+Agent-Class: org.road.reloader.JavaDynAgent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
