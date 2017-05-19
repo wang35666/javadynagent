@@ -2,9 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/CommonLib/lib/slf4j-api-1.7.14.jar"/>
 	<classpathentry kind="src" path="/AgentReloader"/>
-	<classpathentry kind="lib" path="D:/Program Files/Java/jdk1.7.0_79/lib/tools.jar"/>
 	<classpathentry kind="lib" path="/AgentReloader/agentreloader.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_45/lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.14.jar"/>
+	<classpathentry kind="lib" path="lib/ddt-class-reloader.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
